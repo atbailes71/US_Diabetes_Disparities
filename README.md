@@ -82,6 +82,18 @@ diabetes burden is systematically distributed along structural lines.
 
 ---
 
+## Dashboard Preview
+
+![Title Page](04_reporting/dashboard/screenshots/dashboard_title.png)
+
+![Disparity Analysis](04_reporting/dashboard/screenshots/dashboard_disparity.png)
+
+![Geographic Distribution](04_reporting/dashboard/screenshots/dashboard_geographic.png)
+
+![Race/Ethnicity Analysis](04_reporting/dashboard/screenshots/dashboard_race.png)
+
+---
+
 ## Data Sources
 
 | Source | Content | Access |
