@@ -140,8 +140,8 @@ SQL | Jupyter Notebooks | Power BI | GitHub
 ## Limitations
 
 - PLACES estimates are model-based, not direct measurement
-- Analysis is cross-sectional — findings are associational, not causal
-- County-level ecological analysis — findings do not imply 
+- Analysis is cross-sectional - findings are associational, not causal
+- County-level ecological analysis - findings do not imply 
   individual-level relationships
 - NHANES A1C control data was not available at county level; 
   comorbidity measures used as proxies for RQ2
@@ -152,12 +152,12 @@ SQL | Jupyter Notebooks | Power BI | GitHub
 
 ## Documentation
 
-- `01_business_needs/analysis_plan.md` — research questions, 
+- `01_business_needs/analysis_plan.md` - research questions, 
   metrics, analytical approach, and stakeholder framing
-- `02_data_acquisition/data_sources.md` — full documentation 
+- `02_data_acquisition/data_sources.md` - full documentation 
   of all datasets including provenance, variables, limitations, 
   and citations
-- `05_governance/data_dictionary.md` — analytical decisions, 
+- `05_governance/data_dictionary.md` - analytical decisions, 
   variable definitions, exclusions, and assumptions
 
 ---
@@ -165,6 +165,7 @@ SQL | Jupyter Notebooks | Power BI | GitHub
 ## Author
 
 Adam Bailes, MPH | MS Data Science candidate, Boston University (Dec 2026)  
-20+ years global health and nutrition experience across Sub-Saharan 
-Africa and Southeast Asia  
+Extensive global health and nutrition data systems experience across Sub-Saharan 
+Africa and Southeast Asia, now building technical depth in Python, SQL, 
+and statistical modeling through an MS in Data Science at Boston University.  
 adam.t.bailes@gmail.com | linkedin.com/in/adam-bailes-458a35b/
