@@ -45,11 +45,11 @@ prioritization and resource allocation.
 ## Key Findings
 
 **Income gradient:** Counties in the lowest income quintile average 
-17.1% diabetes prevalence versus 11.0% in the highest — a rate ratio 
+17.1% diabetes prevalence versus 11.0% in the highest, a rate ratio 
 of 1.55 and an absolute gap of 6.1 percentage points.
 
 **Urban/rural gradient:** Noncore rural counties average 14.6% versus 
-11.6% in large central metro counties — a rate ratio of 1.26.
+11.6% in large central metro counties, a rate ratio of 1.26.
 
 **Geographic clustering:** Mississippi (17.3%), West Virginia (17.0%), 
 and Alabama (16.8%) are the highest-burden states. Vermont (9.6%) and 
@@ -58,7 +58,7 @@ percentage points exceeds the income quintile gap.
 
 **Racial composition:** County Black population share is the strongest 
 racial predictor of diabetes prevalence (r=0.524). This is an 
-ecological finding — it reflects structural patterns at the county 
+ecological finding; it reflects structural patterns at the county 
 level, not individual risk.
 
 **Multivariate model:** After controlling for all predictors, high 
@@ -70,7 +70,7 @@ the hypothesis that income mediates much of the rural health penalty.
 
 Hispanic population share shows a suppressor effect: its bivariate 
 correlation with diabetes prevalence is near zero (r=0.015), but 
-its standardized coefficient in the multivariate model is 0.596 — the 
+its standardized coefficient in the multivariate model is 0.596, the 
 second strongest predictor. This is because pct_hispanic is negatively 
 associated with BPHIGH, the model's strongest predictor, which masks 
 its true relationship in a simple correlation.
